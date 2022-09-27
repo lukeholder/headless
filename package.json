@@ -41,6 +41,6 @@
     "stylelint-config-standard": "^22.0.0"
   },
   "engines": {
-    "node": ">=16.16.0"
+    "node": ">=16"
   }
 }
